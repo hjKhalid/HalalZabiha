@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "halalzbiha",
+  "description": "Welcome to HalalZabiha, a web application designed to connect local shop owners selling halal meat with customers looking to purchase from trusted sources. This README file will provide you with an overview of the project, its features, and how to set it up locally for development or deployment.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
