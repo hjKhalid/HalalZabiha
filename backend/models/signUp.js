@@ -26,10 +26,7 @@ module.exports = (sequelize, DataTypes) => {
 
           
         },
-        confirmPassword:{
-            type:DataTypes.STRING,
-            allowNull:false
-        }
+       
       },
       {
         // Other model options go here
